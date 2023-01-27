@@ -1,0 +1,7 @@
+{
+  "name": "Exercise_2_Create_A_Menu_In_An_Ionic_Angular_Application",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

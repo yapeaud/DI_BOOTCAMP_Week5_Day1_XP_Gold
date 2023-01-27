@@ -1,0 +1,7 @@
+{
+  "name": "Exercise_3_Add_An_Image_To_Your_Ionic_And_Angular_Application",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
